@@ -1,0 +1,6 @@
+sudo apt-get install testdisk
+//insert usb
+sudo photorec
+select /dev/sda your usb and some stuff, fat32 etc
+C on the directory to recover info
+wait and done :D
