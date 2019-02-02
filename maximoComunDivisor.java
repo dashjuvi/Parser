@@ -3,7 +3,8 @@ public class Solution {
 	    int Dividendo;
     int Divisor;
     int Resto;
- 
+    if(A == 0) return B;
+    if(B == 0) return A;
     {
     if(A > B)
         {
